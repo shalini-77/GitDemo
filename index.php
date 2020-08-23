@@ -1,6 +1,6 @@
 <?php
 
-/** my first laravel project
+/**
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
